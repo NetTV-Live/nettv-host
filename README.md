@@ -17,7 +17,7 @@ Windows 系統hosts位於 C:\Windows\System32\drivers\etc\hosts
 
 Android（安卓）系統hosts位於 /system/etc/hosts
 
-Mac（苹果电脑）系統hosts跟Linux一樣位於 /etc/hos
+Mac（蘋果電腦）系統hosts跟Linux一樣位於 /etc/hos
 
 ts iPhone（iOS）系統hosts跟Linux Mac一樣位於 /etc/hosts
 
