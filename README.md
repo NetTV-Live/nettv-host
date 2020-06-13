@@ -4,6 +4,8 @@
 
 在host文件中添加：
 103.55.26.214 www.nettv.live
+
+
 103.55.26.214 nettv.live
 
 各系统hosts文件所在位置：
