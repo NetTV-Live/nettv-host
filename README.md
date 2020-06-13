@@ -11,16 +11,16 @@
 
 103.55.26.214 nettv.live
 
-各系统hosts文件所在位置：
+各系統hosts文件所在位置：
 
-Windows 系统hosts位于 C:\Windows\System32\drivers\etc\hosts
+Windows 系統hosts位於 C:\Windows\System32\drivers\etc\hosts
 
-Android（安卓）系统hosts位于 /system/etc/hosts
+Android（安卓）系統hosts位於 /system/etc/hosts
 
-Mac（苹果电脑）系统hosts跟Linux一样位于 /etc/hos
+Mac（苹果电脑）系統hosts跟Linux一樣位於 /etc/hos
 
-ts iPhone（iOS）系统hosts跟Linux Mac一样位于 /etc/hosts
+ts iPhone（iOS）系統hosts跟Linux Mac一樣位於 /etc/hosts
 
-Linux系统hosts位于 /etc/hosts
+Linux系統hosts位於 /etc/hosts
 
 使用以上方法可正常訪問，並且速度還很快！
