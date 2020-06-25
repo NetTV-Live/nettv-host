@@ -32,7 +32,7 @@ Linux系統hosts位於 /etc/hosts
 
 如果遇到安全軟件攔截,請放行即可!
 
-注意事項：安卓設備修改hosts需要root（視頻講解：https://youtu.be/0OIxMDdmGBc）
+注意事項：安卓設備修改hosts需要root（視頻講解：https://youtu.be/0OIxMDdmGBc ）
          
          iphone修改hosts需要越獄
 
