@@ -6,10 +6,10 @@
 
 
 
-103.138.80.153 www.nettv.live
+103.138.80.158 www.nettv.live
 
 
-103.138.80.153 nettv.live
+103.138.80.158 nettv.live
 
 各系統hosts文件所在位置：
 
